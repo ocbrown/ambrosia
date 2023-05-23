@@ -1,0 +1,13 @@
+.recipeLink {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.recipeLink:hover {
+    color: black;
+}
+
+.recipe:hover {
+    background: #acacac;
+}
